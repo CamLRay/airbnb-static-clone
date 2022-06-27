@@ -1,0 +1,7 @@
+.property-container{
+  display: flex;
+  margin-right: 1%;
+  margin-left: 1%;
+  width: 100vw;
+  flex-wrap: wrap;
+}
